@@ -21,7 +21,7 @@ public class NewBehaviourScript : MonoBehaviour
         horizontal = OVRInput.Get(Axis2D.PrimaryThumbstick).x;
         vertical = OVRInput.Get(Axis2D.PrimaryThumbstick).y;
 
-        transform.Translate(horizontal, 0, vertical);
+        transform.Translate((horizontal/10), 0, (vertical/10));
         
 
         
