@@ -200,6 +200,7 @@ GameObject:
   - component: {fileID: 7852670249746048130}
   - component: {fileID: 7070852711145900431}
   - component: {fileID: 6124482647331305133}
+  - component: {fileID: -4005844355632141961}
   m_Layer: 0
   m_Name: TrashbinRed
   m_TagString: Untagged
@@ -296,3 +297,15 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6819021656113097579, guid: b08ef7d6178f62742af62250667c0dff, type: 3}
+--- !u!114 &-4005844355632141961
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5828317420224421077}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a70abca48a4b39243a5d1d997d4626c1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
