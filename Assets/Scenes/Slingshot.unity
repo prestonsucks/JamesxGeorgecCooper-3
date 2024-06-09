@@ -1713,7 +1713,6 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
-  - {fileID: 526509672}
   - {fileID: 5058694690884913288}
   - {fileID: 507552965}
   - {fileID: 1115864909}
@@ -15833,7 +15832,8 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
-  m_Children: []
+  m_Children:
+  - {fileID: 526509672}
   m_Father: {fileID: 7079690333082418971}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1001 &3081958786097936684
@@ -16280,7 +16280,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 272260301}
+    m_TransformParent: {fileID: 2736822725608361864}
     m_Modifications:
     - target: {fileID: 1316652866415921372, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
       propertyPath: m_IsActive
@@ -16289,6 +16289,14 @@ PrefabInstance:
     - target: {fileID: 2390568074327988848, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
       propertyPath: m_Name
       value: Slingshot (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3967101236854297349, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
+      propertyPath: m_UseGravity
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3967101236854297349, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
+      propertyPath: m_IsKinematic
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 5768917905378479408, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
       propertyPath: m_IsActive
@@ -16300,15 +16308,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6327267089395364932, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.595
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327267089395364932, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.568
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327267089395364932, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.278
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6327267089395364932, guid: 3530a6aa4649bfc4bb544888c7e72c54, type: 3}
       propertyPath: m_LocalRotation.w
