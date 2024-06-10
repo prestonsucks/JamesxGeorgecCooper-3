@@ -76,6 +76,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Can Variant
       objectReference: {fileID: 0}
+    - target: {fileID: 5058694689523111694, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
+      propertyPath: m_TagString
+      value: can
+      objectReference: {fileID: 0}
     - target: {fileID: 5742921034282674415, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_Mesh
       value: 
