@@ -124,6 +124,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1195410
 =======
 --- !u!1 &31665985
@@ -460,6 +461,8 @@ Transform:
   m_PrefabInstance: {fileID: 624419404}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &46266901
 GameObject:
   m_ObjectHideFlags: 0
@@ -764,7 +767,6 @@ RectTransform:
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 326228696}
-  - {fileID: 2016017927}
   m_Father: {fileID: 433771650}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -847,6 +849,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f8aa1161540414a4383327778ac4a0db, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &64727840
 GameObject:
@@ -1231,6 +1234,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: fbfc588a949bb1a42b20e5bddc4cf8cf, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &101908686
 GameObject:
   m_ObjectHideFlags: 0
@@ -1593,6 +1598,7 @@ Transform:
   - {fileID: 1204829584}
   m_Father: {fileID: 731440339}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &139061963
 GameObject:
@@ -3086,6 +3092,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4841ffc0c0203424aa20389fa184badd, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &326228695
 GameObject:
   m_ObjectHideFlags: 0
@@ -3119,8 +3127,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 10.61, y: -22.67}
-  m_SizeDelta: {x: 78.78, y: 54.65}
+  m_AnchoredPosition: {x: 0, y: 0}
+  m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &327623682
 GameObject:
@@ -3372,6 +3380,7 @@ MeshFilter:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 327623682}
   m_Mesh: {fileID: 10210, guid: 0000000000000000e000000000000000, type: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &328449817
 GameObject:
@@ -3877,6 +3886,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: caf1104dfe6d01c4e9dabd59f18e535a, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &433771649
 GameObject:
   m_ObjectHideFlags: 0
@@ -3907,6 +3918,7 @@ Transform:
   m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 57287809}
+  - {fileID: 2016017927}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 25.09, y: 0, z: 0}
 --- !u!1 &435195633
@@ -4625,6 +4637,7 @@ Transform:
   m_Father: {fileID: 131178950}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &587249346
 GameObject:
   m_ObjectHideFlags: 0
@@ -4968,6 +4981,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: bc242319e5f2bd842999ab7665ad2d78, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &624680404
 GameObject:
   m_ObjectHideFlags: 0
@@ -5454,6 +5469,7 @@ CanvasRenderer:
   m_GameObject: {fileID: 684435597}
   m_CullTransparentMesh: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &691975182
 GameObject:
   m_ObjectHideFlags: 0
@@ -5503,6 +5519,8 @@ Transform:
   m_PrefabInstance: {fileID: 734176425}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &697296165
 GameObject:
   m_ObjectHideFlags: 0
@@ -6056,6 +6074,7 @@ Transform:
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &745607455
 GameObject:
   m_ObjectHideFlags: 0
@@ -6309,6 +6328,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f72a3ebe3d5d78b4fa22e4575c6dd19a, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &793169702
 GameObject:
   m_ObjectHideFlags: 0
@@ -6343,6 +6364,7 @@ Transform:
   - {fileID: 1323088585}
   m_Father: {fileID: 131178950}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &796946519
 GameObject:
@@ -6575,6 +6597,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &859289583
 GameObject:
   m_ObjectHideFlags: 0
@@ -6771,6 +6795,7 @@ Transform:
   - {fileID: 1602959500}
   m_Father: {fileID: 793169703}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &868503695
 =======
@@ -7439,6 +7464,8 @@ Transform:
   m_Father: {fileID: 2140420185}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &1008536206
 GameObject:
   m_ObjectHideFlags: 0
@@ -7471,6 +7498,7 @@ Transform:
   - {fileID: 139061964}
   m_Father: {fileID: 624680405}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1008637036
 GameObject:
@@ -8096,6 +8124,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &1204829583
 GameObject:
   m_ObjectHideFlags: 0
@@ -8127,6 +8157,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 131178950}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1207797650
 =======
@@ -8422,6 +8453,8 @@ Transform:
   m_PrefabInstance: {fileID: 91161598}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &1238637812
 GameObject:
   m_ObjectHideFlags: 0
@@ -8593,6 +8626,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1242331562
 GameObject:
@@ -9551,6 +9585,8 @@ Transform:
   m_PrefabInstance: {fileID: 1272929329}
   m_PrefabAsset: {fileID: 0}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &1376658424
 GameObject:
   m_ObjectHideFlags: 0
@@ -9761,6 +9797,7 @@ Transform:
   - {fileID: 697296166}
   m_Father: {fileID: 624680405}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1398217025
 GameObject:
@@ -11051,6 +11088,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f72a3ebe3d5d78b4fa22e4575c6dd19a, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &1602959499
 GameObject:
   m_ObjectHideFlags: 0
@@ -11082,6 +11121,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 861473057}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1605884954
 GameObject:
@@ -12467,6 +12507,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e9dd25fe255d0dd4c9bb05c4e208bbf9, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &1831460480
 GameObject:
   m_ObjectHideFlags: 0
@@ -12573,6 +12615,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1835268417
 =======
@@ -13094,6 +13137,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86f711b02960d794b8c4ad0bcbf17527, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &1934336667
 GameObject:
   m_ObjectHideFlags: 0
@@ -13125,6 +13170,7 @@ Transform:
   m_Children: []
   m_Father: {fileID: 131178950}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1939733716
 GameObject:
@@ -13336,6 +13382,8 @@ PrefabInstance:
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 86f711b02960d794b8c4ad0bcbf17527, type: 3}
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1 &1973642881
 GameObject:
   m_ObjectHideFlags: 0
@@ -13553,7 +13601,7 @@ PrefabInstance:
   serializedVersion: 2
   m_Modification:
     serializedVersion: 3
-    m_TransformParent: {fileID: 57287809}
+    m_TransformParent: {fileID: 433771650}
     m_Modifications:
     - target: {fileID: 1547402186537643496, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       propertyPath: m_LocalScale.x
@@ -13577,23 +13625,23 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5919106134362994298, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 18.4
+      value: 332.5
       objectReference: {fileID: 0}
     - target: {fileID: 5919106134362994298, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -27.9
+      value: 351.8
       objectReference: {fileID: 0}
     - target: {fileID: 5919106134362994298, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -50.7
+      value: -49.7
       objectReference: {fileID: 0}
     - target: {fileID: 5919106134362994298, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0.9990821
+      value: 0.999082
       objectReference: {fileID: 0}
     - target: {fileID: 5919106134362994298, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       propertyPath: m_LocalRotation.x
-      value: 0.042837765
+      value: 0.04283778
       objectReference: {fileID: 0}
     - target: {fileID: 5919106134362994298, guid: 5fca3702cdf1a214a94e69dcfa704e17, type: 3}
       propertyPath: m_LocalRotation.y
@@ -13976,6 +14024,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 2041748889}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &2051269910
 GameObject:
@@ -14577,6 +14626,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 >>>>>>> b95ff34c307df9ce872e190b5cbd99e4410e9ec3
+=======
+>>>>>>> parent of b95ff34 (button 3)
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
@@ -14586,4 +14637,3 @@ SceneRoots:
   - {fileID: 1831460484}
   - {fileID: 46266904}
   - {fileID: 433771650}
-  - {fileID: 91161598}
