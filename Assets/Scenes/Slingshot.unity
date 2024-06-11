@@ -15662,15 +15662,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 5570938215342277050, guid: 4c7e7c18a81ce5549ae6ecb5a1311826, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.222
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5570938215342277050, guid: 4c7e7c18a81ce5549ae6ecb5a1311826, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.554
+      value: 0.55
       objectReference: {fileID: 0}
     - target: {fileID: 5570938215342277050, guid: 4c7e7c18a81ce5549ae6ecb5a1311826, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.098
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5570938215342277050, guid: 4c7e7c18a81ce5549ae6ecb5a1311826, type: 3}
       propertyPath: m_LocalRotation.w
@@ -15703,6 +15703,10 @@ PrefabInstance:
     - target: {fileID: 5570938215342277054, guid: 4c7e7c18a81ce5549ae6ecb5a1311826, type: 3}
       propertyPath: m_Name
       value: Green Apple
+      objectReference: {fileID: 0}
+    - target: {fileID: 8315550483494777338, guid: 4c7e7c18a81ce5549ae6ecb5a1311826, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16107,7 +16111,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 6092663652499311411, guid: cec0ac08a1adee44180b6fcf295a52bb, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.062
+      value: 0.111
       objectReference: {fileID: 0}
     - target: {fileID: 6092663652499311411, guid: cec0ac08a1adee44180b6fcf295a52bb, type: 3}
       propertyPath: m_LocalPosition.y
@@ -16115,7 +16119,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6092663652499311411, guid: cec0ac08a1adee44180b6fcf295a52bb, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.098
+      value: -0.001
       objectReference: {fileID: 0}
     - target: {fileID: 6092663652499311411, guid: cec0ac08a1adee44180b6fcf295a52bb, type: 3}
       propertyPath: m_LocalRotation.w
@@ -16148,6 +16152,10 @@ PrefabInstance:
     - target: {fileID: 6092663652499311415, guid: cec0ac08a1adee44180b6fcf295a52bb, type: 3}
       propertyPath: m_Name
       value: Red Apple
+      objectReference: {fileID: 0}
+    - target: {fileID: 7684348909896825715, guid: cec0ac08a1adee44180b6fcf295a52bb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
