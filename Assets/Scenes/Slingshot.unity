@@ -1240,6 +1240,9 @@ MonoBehaviour:
   blockId: f10154e0-16b2-492f-97d0-6639f69e7df6
   instanceId: 258cf179-aafd-4271-98eb-bc58990c7697
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1 &189100335
 GameObject:
   m_ObjectHideFlags: 0
@@ -4638,6 +4641,9 @@ MonoBehaviour:
   blockId: 8b26b298-7bf4-490e-b245-a039c0184303
   instanceId: fceb8ac5-82a1-4cc6-8936-0db8dde06c9a
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1 &814364029
 GameObject:
   m_ObjectHideFlags: 0
@@ -6420,6 +6426,9 @@ MonoBehaviour:
   blockId: 5817f7c0-f2a5-45f9-a5ca-64264e0166e8
   instanceId: 44b5b6fd-109a-4f16-9a05-f91d0e4ad773
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1 &998201114
 GameObject:
   m_ObjectHideFlags: 0
@@ -6812,6 +6821,9 @@ MonoBehaviour:
   blockId: 6b67162c-2460-4766-a931-980388647573
   instanceId: c379e7a7-5b10-4eb4-a6a8-81b9102057fb
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1 &1025218452
 GameObject:
   m_ObjectHideFlags: 0
@@ -6986,6 +6998,9 @@ MonoBehaviour:
   blockId: 0393ca30-f2a9-4865-a40f-f9a68d01c3a9
   instanceId: 10f62f4e-1f26-4a58-a16f-119abe0534ac
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1 &1056138961
 GameObject:
   m_ObjectHideFlags: 0
@@ -9689,6 +9704,9 @@ MonoBehaviour:
   blockId: 8b26b298-7bf4-490e-b245-a039c0184303
   instanceId: 09a6731e-9ef7-43ac-8278-bea53baf2a8a
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1 &1390358259
 GameObject:
   m_ObjectHideFlags: 0
@@ -12537,7 +12555,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7038632469615486301, guid: 5e578fd09239b3044b022144f4bee1c9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.104
+      value: 0.049
       objectReference: {fileID: 0}
     - target: {fileID: 7038632469615486301, guid: 5e578fd09239b3044b022144f4bee1c9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -13450,6 +13468,9 @@ MonoBehaviour:
   blockId: 6b67162c-2460-4766-a931-980388647573
   instanceId: 9fab024a-c3ff-4ac4-aa12-d9788fc4a8d3
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1 &1954961958
 GameObject:
   m_ObjectHideFlags: 0
@@ -14916,6 +14937,9 @@ MonoBehaviour:
   blockId: 5817f7c0-f2a5-45f9-a5ca-64264e0166e8
   instanceId: be6461e1-292b-4154-a462-d11d32d9e693
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1 &2063435487
 GameObject:
   m_ObjectHideFlags: 0
@@ -15647,10 +15671,6 @@ PrefabInstance:
       propertyPath: m_Name
       value: Green Apple
       objectReference: {fileID: 0}
-    - target: {fileID: 8315550483494777338, guid: 4c7e7c18a81ce5549ae6ecb5a1311826, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15803,7 +15823,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7038632469615486301, guid: 5e578fd09239b3044b022144f4bee1c9, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.062
+      value: 0.586
       objectReference: {fileID: 0}
     - target: {fileID: 7038632469615486301, guid: 5e578fd09239b3044b022144f4bee1c9, type: 3}
       propertyPath: m_LocalPosition.y
@@ -15811,7 +15831,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7038632469615486301, guid: 5e578fd09239b3044b022144f4bee1c9, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.413
+      value: 0.036
       objectReference: {fileID: 0}
     - target: {fileID: 7038632469615486301, guid: 5e578fd09239b3044b022144f4bee1c9, type: 3}
       propertyPath: m_LocalRotation.w
@@ -16049,7 +16069,7 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 8348682247474055352, guid: cb463a4cd304c35408a0149eaad3f803, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.267
+      value: 0.424
       objectReference: {fileID: 0}
     - target: {fileID: 8348682247474055352, guid: cb463a4cd304c35408a0149eaad3f803, type: 3}
       propertyPath: m_LocalPosition.y
@@ -16057,7 +16077,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8348682247474055352, guid: cb463a4cd304c35408a0149eaad3f803, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.3279
+      value: -0.002
       objectReference: {fileID: 0}
     - target: {fileID: 8348682247474055352, guid: cb463a4cd304c35408a0149eaad3f803, type: 3}
       propertyPath: m_LocalRotation.w
@@ -16152,10 +16172,6 @@ PrefabInstance:
     - target: {fileID: 6092663652499311415, guid: cec0ac08a1adee44180b6fcf295a52bb, type: 3}
       propertyPath: m_Name
       value: Red Apple
-      objectReference: {fileID: 0}
-    - target: {fileID: 7684348909896825715, guid: cec0ac08a1adee44180b6fcf295a52bb, type: 3}
-      propertyPath: m_LocalPosition.x
-      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16345,6 +16361,9 @@ MonoBehaviour:
   blockId: e47682b9-c270-40b1-b16d-90b627a5ce1b
   instanceId: 88a892b8-ce20-4230-9c38-1a07efb4d3a7
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1001 &7541803815847921817
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -16568,6 +16587,9 @@ MonoBehaviour:
   blockId: 81f55626-5fad-45e9-a1df-184f330da7ba
   instanceId: 70117f14-ef30-4d2d-94dd-6a08cc0bf26b
   version: 1
+  installationRoutineCheckpoint:
+    _installationRoutineId: 
+    _installationVariants: []
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
