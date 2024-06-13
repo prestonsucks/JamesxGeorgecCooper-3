@@ -10,4 +10,8 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene("DemoDay");
     }
+    public void LoadScene2()
+    {
+        SceneManager.LoadScene("Slingshot");
+    }
 }
