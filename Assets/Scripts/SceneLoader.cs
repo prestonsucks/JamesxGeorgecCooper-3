@@ -14,4 +14,8 @@ public class SceneLoader : MonoBehaviour
     {
         SceneManager.LoadScene("Slingshot");
     }
+    public void LoadScene3()
+    {
+        SceneManager.LoadScene("MainMenu2");
+    }
 }
