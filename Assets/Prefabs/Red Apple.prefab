@@ -34,7 +34,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5058694689523111690, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.062
+      value: 0.111
       objectReference: {fileID: 0}
     - target: {fileID: 5058694689523111690, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalPosition.y
@@ -42,7 +42,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5058694689523111690, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -0.098
+      value: -0.001
       objectReference: {fileID: 0}
     - target: {fileID: 5058694689523111690, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalRotation.w
@@ -94,7 +94,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 8655126653359793994, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0.151
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9121621071314520240, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_Radius
@@ -147,10 +147,10 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.031623505
-  m_Height: 0.107100606
+  m_Radius: 0.042300582
+  m_Height: 0.10697222
   m_Direction: 1
-  m_Center: {x: 0.1614103, y: 0.00025695562, z: -0.08243083}
+  m_Center: {x: 0.0053214803, y: -0.0027936697, z: -0.07531276}
 --- !u!65 &586786084874261648
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -170,8 +170,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.040457964, y: 0.043234944, z: 0.17074764}
-  m_Center: {x: 0.1589489, y: -0.0014078021, z: -0.0025166422}
+  m_Size: {x: 0.035373643, y: 0.043234944, z: 0.17074764}
+  m_Center: {x: 0.0059106722, y: -0.0014078021, z: -0.0025166422}
 --- !u!136 &5708260572013625312
 CapsuleCollider:
   m_ObjectHideFlags: 0
@@ -191,7 +191,7 @@ CapsuleCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 2
-  m_Radius: 0.032397598
-  m_Height: 0.08711076
+  m_Radius: 0.044091552
+  m_Height: 0.10750353
   m_Direction: 1
-  m_Center: {x: 0.15823671, y: -0.0030430555, z: 0.08123366}
+  m_Center: {x: 0.002147898, y: -0.006093681, z: 0.07004815}
