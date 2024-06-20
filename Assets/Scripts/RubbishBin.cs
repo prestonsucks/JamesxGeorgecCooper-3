@@ -16,7 +16,7 @@ public class RubbishBin : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-       trashcounter.GetComponent<TextMeshProUGUI>().text = "trash count:" + trashcount;
+       trashcounter.GetComponent<TextMeshPro>().text = "trash count:" + trashcount;
     }
     private void OnTriggerEnter(Collider other)
     {

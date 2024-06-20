@@ -116,7 +116,9 @@ GameObject:
   - component: {fileID: 2988525255598197721}
   - component: {fileID: 6445343112839723297}
   - component: {fileID: 7725821282863793978}
-  - component: {fileID: 4732194732022481004}
+  - component: {fileID: 4349731382387170627}
+  - component: {fileID: 4844987825271702814}
+  - component: {fileID: 5229084530443705066}
   m_Layer: 0
   m_Name: TrashbinBlue
   m_TagString: bin
@@ -191,7 +193,7 @@ MeshRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_AdditionalVertexStreams: {fileID: 0}
---- !u!64 &4732194732022481004
+--- !u!64 &4349731382387170627
 MeshCollider:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -213,6 +215,41 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6819021656113097579, guid: b08ef7d6178f62742af62250667c0dff, type: 3}
+--- !u!65 &4844987825271702814
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3924649139874391552}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 1
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.36793327, y: 0.14627206, z: 0.3558527}
+  m_Center: {x: -0.0040056705, y: 0.07313591, z: -0.020639077}
+--- !u!114 &5229084530443705066
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3924649139874391552}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c049d3fad2c89c4a9851b016402773c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trashcount: 0
+  trashcounter: {fileID: 0}
 --- !u!1 &5781858950278832658
 GameObject:
   m_ObjectHideFlags: 0
