@@ -22,7 +22,7 @@ public class RubbishBin : MonoBehaviour
     {
         if (other.gameObject.tag == "can")
         {
-            trashcount = +1;
+            trashcount = trashcount + 1;
         }
     }
 }

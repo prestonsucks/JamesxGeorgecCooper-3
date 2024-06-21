@@ -20,7 +20,7 @@ public class SpawnCode : MonoBehaviour
     void Update()
     {
         Timer = Timer + Time.deltaTime;
-        if (Timer > 3)
+        if (Timer > 6)
         {
             int n = Random.Range(0, objectsToInstantiate.Length);
             Instantiate(objectsToInstantiate[n], Pos.position, objectsToInstantiate[n].transform.rotation);
