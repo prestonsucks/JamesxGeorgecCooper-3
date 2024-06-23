@@ -11,7 +11,7 @@ public class SpawnCode : MonoBehaviour
     public GameObject[] objectsToInstantiate;
     void Start()
     {
-        Timer = 0;
+        Timer = 5;
         
         
     }
