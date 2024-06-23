@@ -9,12 +9,15 @@ public class RubbishBin : MonoBehaviour
     public GameObject trashcounter;
     public float timer;
     public bool yes;
+    public GameObject confetti;
     // Start is called before the first frame update
     void Start()
     {
         trashcount = 0;
         timer = 0;
         yes = true;
+
+        
     }
 
     // Update is called once per frame
@@ -33,6 +36,7 @@ public class RubbishBin : MonoBehaviour
         if (other.gameObject.tag == "can" && yes == true)
         {
             trashcount = trashcount + 1;
+            confetti.GetComponent<ParticleSystem>().Play();
             yes = false;
             timer = 0;
         }
