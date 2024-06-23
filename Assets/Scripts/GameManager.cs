@@ -6,7 +6,7 @@ public class GameManager : MonoBehaviour
 {
     public float gametimer;
     public bool gameover;
-    public TextMeshProUGUI time;
+    public TextMeshPro time;
     // Start is called before the first frame update
     void Start()
     {
@@ -22,6 +22,6 @@ public class GameManager : MonoBehaviour
         {
             gameover = true;
         }
-        time.text = ("Time Remaining:" + gametimer);
+        time.text = ("Time Remaining:" + gametimer.ToString("F2"));
     }
 }
