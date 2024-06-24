@@ -200,8 +200,8 @@ GameObject:
   - component: {fileID: 7852670249746048130}
   - component: {fileID: 7070852711145900431}
   - component: {fileID: 6124482647331305133}
-  - component: {fileID: 7379365216202141914}
   - component: {fileID: 9077398770184373579}
+  - component: {fileID: 529896743848909037}
   m_Layer: 0
   m_Name: TrashbinRed
   m_TagString: bin
@@ -298,27 +298,6 @@ MeshCollider:
   m_Convex: 0
   m_CookingOptions: 30
   m_Mesh: {fileID: -6819021656113097579, guid: b08ef7d6178f62742af62250667c0dff, type: 3}
---- !u!65 &7379365216202141914
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5828317420224421077}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.526683, y: 1.173587, z: 0.65152067}
-  m_Center: {x: -0.0020053983, y: 0.58679336, z: -0.002895385}
 --- !u!65 &9077398770184373579
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -338,5 +317,21 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.37285846, y: 0.339756, z: 0.3671317}
-  m_Center: {x: -0.0007005632, y: 0.16987789, z: -0.009892225}
+  m_Size: {x: 0.4089587, y: 0.004826665, z: 0.40724254}
+  m_Center: {x: 0.001304999, y: 0.6381777, z: -0.01390326}
+--- !u!114 &529896743848909037
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5828317420224421077}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3c049d3fad2c89c4a9851b016402773c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  trashcount: 0
+  trashcounter: {fileID: 0}
+  timer: 0
+  yes: 0
