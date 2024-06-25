@@ -6,10 +6,10 @@ using TMPro;
 public class RubbishBin : MonoBehaviour
 {
     public float trashcount;
-    public GameObject trashcounter;
     public float timer;
     public bool yes;
     public GameObject confetti;
+    public float score;
     // Start is called before the first frame update
     void Start()
     {
@@ -24,7 +24,6 @@ public class RubbishBin : MonoBehaviour
     void Update()
     {
         timer = timer+ Time.deltaTime;
-       trashcounter.GetComponent<TextMeshPro>().text = "trash count:" + trashcount;
         if (timer > 1)
         {
             yes = true;
@@ -35,10 +34,11 @@ public class RubbishBin : MonoBehaviour
     {
         if (other.gameObject.tag == "can" && yes == true)
         {
-            trashcount = trashcount + 1;
+            Score.trashcount = Score.trashcount + score;
             confetti.GetComponent<ParticleSystem>().Play();
-            yes = false;
             timer = 0;
+            yes = false;
+            
         }
     }
 }

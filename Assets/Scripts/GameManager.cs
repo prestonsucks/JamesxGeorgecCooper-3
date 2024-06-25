@@ -26,6 +26,7 @@ public class GameManager : MonoBehaviour
 
         if (gametimer < 0)
         {
+            gametimer = 0;
             gameover = true;
         }
     }
