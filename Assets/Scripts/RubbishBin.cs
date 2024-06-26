@@ -10,15 +10,14 @@ public class RubbishBin : MonoBehaviour
     public bool yes;
     public GameObject confetti;
     public float score;
-    public AudioSource _audiosource;
+    private AudioSource audioSource;
     // Start is called before the first frame update
     void Start()
     {
         trashcount = 0;
         timer = 0;
         yes = true;
-
-        
+        audioSource = GetComponent<AudioSource>();
     }
 
     // Update is called once per frame
@@ -37,10 +36,9 @@ public class RubbishBin : MonoBehaviour
         {
             Score.trashcount = Score.trashcount + score;
             confetti.GetComponent<ParticleSystem>().Play();
-            _audiosource.Play();
             timer = 0;
             yes = false;
-            
+            audioSource.Play();
         }
     }
 }
