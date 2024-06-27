@@ -34,15 +34,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5058694689523111690, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.16472006
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5058694689523111690, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 0.2764001
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5058694689523111690, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -1.2102613
+      value: -1.2100261
       objectReference: {fileID: 0}
     - target: {fileID: 5058694689523111690, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       propertyPath: m_LocalRotation.w
@@ -118,9 +118,6 @@ PrefabInstance:
       addedObject: {fileID: 4353317374580779852}
     - targetCorrespondingSourceObject: {fileID: 5058694689523111694, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
       insertIndex: -1
-      addedObject: {fileID: 6569932893035725995}
-    - targetCorrespondingSourceObject: {fileID: 5058694689523111694, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
-      insertIndex: -1
       addedObject: {fileID: 5995125544943731146}
   m_SourcePrefab: {fileID: 100100000, guid: b2151d111ebb7114294d9b82456e8358, type: 3}
 --- !u!1 &22544265980313260 stripped
@@ -147,29 +144,8 @@ BoxCollider:
   m_ProvidesContacts: 0
   m_Enabled: 1
   serializedVersion: 3
-  m_Size: {x: 0.14774111, y: 0.13048542, z: 0.116731465}
-  m_Center: {x: -0.00008097291, y: -0.012674391, z: -0.14712438}
---- !u!65 &6569932893035725995
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 22544265980313260}
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_LayerOverridePriority: 0
-  m_IsTrigger: 0
-  m_ProvidesContacts: 0
-  m_Enabled: 1
-  serializedVersion: 3
-  m_Size: {x: 0.14307883, y: 0.15049815, z: 0.13380498}
-  m_Center: {x: -0.000000014901161, y: 0.09088564, z: -0.01947549}
+  m_Size: {x: 0.14774111, y: 0.12805371, z: 0.15624666}
+  m_Center: {x: -0.00008097291, y: 0.03352789, z: -0.072045565}
 --- !u!114 &5995125544943731146
 MonoBehaviour:
   m_ObjectHideFlags: 0
