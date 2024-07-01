@@ -22,6 +22,6 @@ public class TrashSpawner : MonoBehaviour
 
     void SpawnTrash()
     {
-        Instantiate(list[Random.Range(0, list.Length)], new Vector3(Random.Range(0.0f,36.0f), 10, Random.Range(-44.0f,34.0f)), gameObject.transform.rotation);
+        Instantiate(list[Random.Range(0, list.Length)], new Vector3(Random.Range(-36.0f,36.0f), 10, Random.Range(-44.0f,34.0f)), gameObject.transform.rotation);
     }
 }
