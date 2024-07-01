@@ -28,8 +28,9 @@ public class GameManager : MonoBehaviour
     
         time.text = ("Time Remaining:" + gametimer.ToString("F2"));
 
-        if (gametimer < 0)
+        if (gametimer <= 0)
         {
+            Debug.Log("is runnhing");
             gametimer = 0;
             gameover = true;
             GameOvertext.text = ("Game Over!    Score - " + Score.trashcount);
